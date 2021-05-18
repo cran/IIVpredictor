@@ -1,0 +1,21 @@
+---
+title: "IIVpredictor-vignette"
+author: "Lijuan Wang, Xiao Liu and Miao Yang"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{IIVpredictor-vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(IIVpredictor)
+```

@@ -1,0 +1,14 @@
+ec30cfbbbb7b1e1c0f7d05a3a52e78e9 *DESCRIPTION
+abed592e22e32468fa960592989030a8 *NAMESPACE
+3da7c479e4c43df1751194b462a84fec *R/ISD.BV.R
+3ce536c19ee3a463436be9bba736aa58 *R/IVAR.BV.R
+f05ed4945854e95eb7d8d8164582cd28 *R/IVAR.TPB.R
+1582d1c0a7c4b30acc9d6be137f64a65 *R/globalVars.R
+c0bb115ac466e4a202dce55f949a6339 *build/vignette.rds
+1565f208c5d531c6cf1b344ef6c687c5 *inst/doc/IIVpredictor-vignette.R
+9c8c57225e9d12c14b328e1b27e141b1 *inst/doc/IIVpredictor-vignette.Rmd
+dad7243f89a6136cbdb7117a4ad4bebe *inst/doc/IIVpredictor-vignette.html
+3544efd65c0343ddd6123d4af1ff98aa *man/ISD.BV.Rd
+d1ae140499cdc5b8402d5b0d561a2f6c *man/IVAR.BV.Rd
+cf929153393796ab4841ed587cfe3a76 *man/IVAR.TPB.Rd
+9c8c57225e9d12c14b328e1b27e141b1 *vignettes/IIVpredictor-vignette.Rmd
